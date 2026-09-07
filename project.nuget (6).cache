@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9zMdqLdAGk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\yenna\\Documents\\Codex\\2026-09-07\\files-mentioned-by-the-user-online\\QuadraticEquation.Tests\\QuadraticEquation.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Nie można załadować indeksu usługi dla źródła https://api.nuget.org/v3/index.json.\r\n  The SSL connection could not be established, see inner exception.\r\n  Authentication failed, see inner exception.\r\n  Żadne poświadczenia nie są dostępne w pakiecie zabezpieczeń.",
+      "projectPath": "C:\\Users\\yenna\\Documents\\Codex\\2026-09-07\\files-mentioned-by-the-user-online\\QuadraticEquation.Tests\\QuadraticEquation.Tests.csproj",
+      "filePath": "C:\\Users\\yenna\\Documents\\Codex\\2026-09-07\\files-mentioned-by-the-user-online\\QuadraticEquation.Tests\\QuadraticEquation.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

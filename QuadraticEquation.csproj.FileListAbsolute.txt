@@ -1,0 +1,14 @@
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\bin\Debug\net10.0\QuadraticEquation.exe
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\bin\Debug\net10.0\QuadraticEquation.deps.json
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\bin\Debug\net10.0\QuadraticEquation.runtimeconfig.json
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\bin\Debug\net10.0\QuadraticEquation.dll
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\bin\Debug\net10.0\QuadraticEquation.pdb
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.AssemblyInfo.cs
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.dll
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\refint\QuadraticEquation.dll
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.pdb
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\QuadraticEquation.genruntimeconfig.cache
+C:\Users\yenna\Documents\Codex\2026-09-07\files-mentioned-by-the-user-online\QuadraticEquation\obj\Debug\net10.0\ref\QuadraticEquation.dll

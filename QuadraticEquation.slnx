@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QuadraticEquation.Tests/QuadraticEquation.Tests.csproj" />
+  <Project Path="QuadraticEquation/QuadraticEquation.csproj" />
+</Solution>
